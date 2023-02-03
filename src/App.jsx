@@ -15,7 +15,7 @@ function App() {
 
   return (
     <div className="App">
-      <button onClick={ Login}>Login</button>
+      <button onClick={Login}>Login</button>
     </div>
   )
 }
